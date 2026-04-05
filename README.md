@@ -163,14 +163,11 @@ netsh wlan connect name="LPU-STUDENT-WIFI"
 - ✅ No network transmission of credentials
 - ✅ Windows netsh uses secure system APIs
 
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
 **⭐ Star if helpful!**  
-**🐛 Issues? [Open issue](https://github.com/yourusername/LPU-WiFi-Auto-Login/issues)**
+**🐛 Issues? [Open issue](https://github.com/wtfai/Autowifi-lpu/issues)**
 
 ---
 
